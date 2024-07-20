@@ -1,0 +1,8 @@
+{
+  "java.dependency.packagePresentation": "hierarchical",
+  "maven.view": "flat",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.project.sourcePaths": ["src"],
+  "java.project.referencedLibraries": [],
+  "java.compile.nullAnalysis.mode": "automatic"
+}
